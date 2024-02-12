@@ -263,7 +263,7 @@ ul {
 }
 
 .logo {
-  background-image: url(/Resources/amazon_logo.png);
+  background-image: url(Resources/amazon_logo.png);
   height: 3.125rem;
   width: 100px;
   background-size: cover;
